@@ -1,19 +1,19 @@
 # Data-Science_Internship_1
-Title: Basic Data Processing using Python
+# Title: Basic Data Processing using Python
 
-Objective:
+# Objective:
 To perform basic data processing operations such as calculating statistics, transforming data, and grouping.
 
-Steps Performed:
+# Steps Performed:
 Loaded dataset using Pandas
 Calculated average, maximum, and minimum values
 Created a new column (Grade system)
 Grouped data based on grades
 Saved processed data
 
-Tools Used:
+# Tools Used:
 Python
 Pandas
 
-Conclusion:
+# Conclusion:
 Basic data processing helps in understanding and organizing raw data for further analysis.
