@@ -1,4 +1,4 @@
-__#📄Week 1 Summary (Python Basics – 200 Words)__
+#📄Week 1 Summary : Python Basics
 
 In Week 1, I learned the fundamentals of Python programming, which form the foundation for data processing and analysis. I studied basic concepts such as variables, data types (integers, floats, strings, and booleans), and operators used for performing arithmetic and logical operations. I also learned how to take input from users and display output using print statements.
 I understood the importance of control structures like conditional statements (if-else), which help in decision-making, and loops (for and while), which allow repetition of tasks efficiently. These concepts helped me build logical thinking and problem-solving skills.
