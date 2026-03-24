@@ -1,0 +1,6 @@
+## 📄 Week 4 Summary (Data Visualization)
+In Week 4, I learned how to visualize data using Python libraries such as Matplotlib and Seaborn. Data visualization is important because it helps in understanding patterns, trends, and relationships within data in a clear and meaningful way.
+I studied different types of plots such as line plots, scatter plots, bar charts, and histograms using Matplotlib. These plots helped in representing data distributions and comparisons effectively. With Seaborn, I explored advanced visualizations like pair plots and heatmaps, which provide deeper insights into relationships between multiple features in a dataset.
+During hands-on practice, I created various graphs to analyze datasets and understand how different variables are related. I also learned how to customize plots by adding titles, labels, and legends to make them more informative and visually appealing.
+As part of the client project, I developed a basic dashboard that included multiple visualizations such as scatter plots, histograms, and correlation heatmaps. This helped in identifying relationships between features and understanding data behavior more clearly.
+Overall, this week enhanced my ability to present data visually and draw meaningful conclusions. It also prepared me for more advanced data analysis and machine learning tasks.
