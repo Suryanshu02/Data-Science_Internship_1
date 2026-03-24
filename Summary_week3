@@ -1,0 +1,6 @@
+## 📄 Week 3 Summary (NumPy & Pandas)
+In Week 3, I learned how to work with data using NumPy and Pandas,which are essential libraries for data analysis in Python. I understood how NumPy arrays allow fast and efficient numerical computations, and how operations like element-wise calculations and array transformations can be performed easily.
+Using Pandas, I worked with structured data in the form of DataFrames and Series. I learned how to create datasets, access specific columns, and perform operations like filtering and aggregation. One of the key concepts I learned was handling missing data, where I used methods like filling missing values with the mean to maintain data consistency.
+I also performed basic statistical analysis such as calculating average, maximum, and minimum values. Additionally, I used grouping techniques to categorize data and analyze it based on specific conditions. This helped in understanding patterns within the dataset.
+The integration of NumPy with Pandas helped me perform numerical operations more efficiently. I also learned how to save processed data into a new file for future use.
+Overall, this week provided practical experience in cleaning, analyzing, and transforming data. It strengthened my understanding of real-world data processing and prepared me for further tasks in data visualization and machine learning.
