@@ -1,0 +1,6 @@
+## 📄 Week 2 Summary (Data Structures & Functions)
+In Week 2, I learned about Python data structures and functions, which are essential for organizing and processing data efficiently. I studied lists, tuples, dictionaries, and sets, and understood how each structure is used in different situations. These helped me store and manipulate data in a structured way.
+I also learned how to create and use functions to make code reusable and modular. Concepts like lambda functions and list comprehension helped me write shorter and more efficient code. Additionally, I gained a basic understanding of recursion.
+Through hands-on practice, I worked on tasks such as finding the sum of squares and filtering specific values from a dataset. These exercises improved my logical thinking and coding skills.
+As part of the client project, I developed a data cleaning script that removed duplicate values and filtered unnecessary data. This gave me practical experience in preparing raw data for analysis.
+Overall, this week enhanced my understanding of data handling and improved my ability to write efficient and structured Python programs.
